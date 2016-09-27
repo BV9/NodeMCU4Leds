@@ -14,7 +14,7 @@
 
 ### Implementaciones.
 
-> Aaptación con Arduino IDE.
+> Adaptación con Arduino IDE.
 
 > Servicio Web integrado en el dispositivo desarrollada en HTML5.
 
@@ -43,7 +43,7 @@ coste del dispositivo.
 La aplicación Android se ha desarrollado con la ayuda del IDE **Arduino IDE**, y
 con las librerias del proyecto **Arduino core for ESP8266 WiFi chip**:
 
-> Stable version: 
+> Stable version:
 
 > Boards manager link: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
@@ -53,7 +53,7 @@ con las librerias del proyecto **Arduino core for ESP8266 WiFi chip**:
 
 Diseño de la aplicación:
 
-> [DevAge] (http://www.antoniohorrillo.com)
+> [NodeMCU4Leds] (http://www.antoniohorrillo.com)
 
 Arduino core for ESP8266 WiFi chip:
 
@@ -69,5 +69,5 @@ Portada Gestión de Leds:
 
 **GNU GENERAL PUBLIC LICENSE** Version 3, 29 June 2007. Ver el archivo LICENSE.
 
-NodeMCU4Leds.
-![Antonio Horrillo.](http://blog.antoniohorrillo.com)
+**NodeMCU4Leds.**
+**[Antonio Horrillo.](http://blog.antoniohorrillo.com)**
